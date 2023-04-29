@@ -35,6 +35,7 @@ For my second year, I'm planning to focus on participating in competition, learn
 [![Canteena Website](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=canteena)](https://github.com/DiziASP/canteena)
 [![Menfess Website](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=nextfrontend-menfess)](https://github.com/DiziASP/nextfrontend-menfess)
 [![Tugas Besar IF1210 Dasar Pemrograman](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tubes-Daspro---BNMO)](https://github.com/DiziASP/Tubes-Daspro---BNMO)
+[![Tugas Besar IF2111 Alstrukdat STI](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2111_TB2_01)](https://github.com/DiziASP/IF2111_TB2_01)
 
 ### Dokumentasi Prak (buat adik-adik STI ku supaya kalian bisa membantai alstrukdat dan oop🫶)
 [![Praktikum IF2111 Algoritma dan Struktur Data STI](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum-Alstrukdat-STI-IF2111)](https://github.com/DiziASP/Praktikum-Alstrukdat-STI-IF2111)
