@@ -24,22 +24,22 @@ For my second year, I'm planning to focus on participating in competition, learn
 ## My Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiziASP&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diziasp&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Most%20used%20languages" alt="GitHub Stats Language">
- <img src="https://github-readme-stats.vercel.app/api?username=DiziASP&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=My%20Stats" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diziasp&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Most%20used%20languages" alt="GitHub Stats Language">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiziASP&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=My%20Stats" alt="GitHub Stats">
   <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiziASP&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 </div>
 </div>
 
 ## My Projects
-[![Canteena Website](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=canteena)](https://github.com/DiziASP/canteena)
-[![Menfess Website](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=nextfrontend-menfess)](https://github.com/DiziASP/nextfrontend-menfess)
-[![Tugas Besar IF1210 Dasar Pemrograman](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tubes-Daspro---BNMO)](https://github.com/DiziASP/Tubes-Daspro---BNMO)
-[![Tugas Besar IF2111 Alstrukdat STI](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2111_TB2_01)](https://github.com/DiziASP/IF2111_TB2_01)
+[![Canteena Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=canteena)](https://github.com/DiziASP/canteena)
+[![Menfess Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=nextfrontend-menfess)](https://github.com/DiziASP/nextfrontend-menfess)
+[![Tugas Besar IF1210 Dasar Pemrograman](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tubes-Daspro---BNMO)](https://github.com/DiziASP/Tubes-Daspro---BNMO)
+[![Tugas Besar IF2111 Alstrukdat STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2111_TB2_01)](https://github.com/DiziASP/IF2111_TB2_01)
 
 ### Dokumentasi Prak (buat adik-adik STI ku supaya kalian bisa membantai alstrukdat dan oop🫶)
-[![Praktikum IF2111 Algoritma dan Struktur Data STI](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum-Alstrukdat-STI-IF2111)](https://github.com/DiziASP/Praktikum-Alstrukdat-STI-IF2111)
-[![Praktikum IF2212 Pemrograman Berorientasi Objek STI](https://github-readme-stats.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)](https://github.com/DiziASP/Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)
+[![Praktikum IF2111 Algoritma dan Struktur Data STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum-Alstrukdat-STI-IF2111)](https://github.com/DiziASP/Praktikum-Alstrukdat-STI-IF2111)
+[![Praktikum IF2212 Pemrograman Berorientasi Objek STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)](https://github.com/DiziASP/Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)
 
 
 ## I'm familiar with these!
