@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Kenalin, Raden Dizi Assyafadi Putra, Leo, 20 Tahun! 🤚
+# 👋 Hi! I'm Raden Dizi Assyafadi Putra, 20 Years Old! 🤚
 
 I am currently a second-year Undergraduate Student at ITB who has a big interest in Web Development, iOS/Android Development, and Machine Learning. 
 During my first year, I managed to create a Mention Confess (Menfess) website using ReactJS and Python (Flask). This website was used for my group's Final Project. I also learn about Data Science using Python's Pandas.
