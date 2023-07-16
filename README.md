@@ -22,7 +22,7 @@ During my first year, I managed to create a Mention Confess (Menfess) website us
 For my second year, I'm planning to focus on participating in competition, learning advance skills related to programming, and finding internships or part-time jobs, all while completing my studies.
 
 ## My Statistics
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiziASP&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiziASP&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="middle">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diziasp&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiziASP&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=My%20Stats" alt="GitHub Stats">
