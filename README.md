@@ -32,13 +32,17 @@ For my second year, I'm planning to focus on participating in competition, learn
 </div>
 
 ## My Projects
+[![Seleksi 3 Labpro Single Service Backend](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=seleksi-3-labpro-ss-be)](https://github.com/DiziASP/seleksi-3-labpro-ss-be)
+[![Seleksi 3 Labpro Monolith](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=seleksi-3-labpro-monolith)](https://github.com/DiziASP/seleksi-3-labpro-monolith)
 [![Canteena Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=canteena)](https://github.com/DiziASP/canteena)
 [![Menfess Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=nextfrontend-menfess)](https://github.com/DiziASP/nextfrontend-menfess)
 [![Tugas Besar IF1210 Dasar Pemrograman](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tubes-Daspro---BNMO)](https://github.com/DiziASP/Tubes-Daspro---BNMO)
 [![Tugas Besar IF2111 Alstrukdat STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2111_TB2_01)](https://github.com/DiziASP/IF2111_TB2_01)
-[![Tugas Besar IF2212 OOP STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2212_TB_01_01)](https://github.com/DiziASP/IF2212_TB_01_01)
+[![Tugas Besar IF2212 OOP STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tugas-Besar-IF2212-Pemrograman-Berorientasi-Objek-2023)](https://github.com/DiziASP/Tugas-Besar-IF2212-Pemrograman-Berorientasi-Objek-2023)
 
-### Dokumentasi Prak (buat adik-adik STI ku supaya kalian bisa membantai alstrukdat dan oop🫶)
+## Dokumentasi Praktikum 
+(buat adik-adik STI ku supaya kalian bisa membantai alstrukdat dan oop🫶)
+
 [![Praktikum IF2111 Algoritma dan Struktur Data STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum-Alstrukdat-STI-IF2111)](https://github.com/DiziASP/Praktikum-Alstrukdat-STI-IF2111)
 [![Praktikum IF2212 Pemrograman Berorientasi Objek STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)](https://github.com/DiziASP/Praktikum--Pemrograman-Berorientasi-Objek-STI-IF2212-2022-2023)
 
