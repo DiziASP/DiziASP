@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi! I'm Raden Dizi Assyafadi Putra, 20 Years Old! 🤚
 
-I am currently a second-year Undergraduate Student at ITB who has a big interest in Project and/or Product Management, Web Development, iOS/Android Development, and Machine Learning. 
+I am currently a third-year Undergraduate Student at ITB who has a big interest in Software Engineering and Site Realibility Engineering/DevOps. 
 During my first year, I managed to create a Mention Confess (Menfess) website using ReactJS and Python (Flask). This website was used for my group's Final Project. I also learn about Data Science using Python's Pandas.
-For my second year, I'm planning to focus on participating in competition, learning advance skills related to programming, and finding internships or part-time jobs, all while completing my studies.
+During my third year, I participate in numeruous competition, learning advance skills related to programming, etc. And for the next step, I want to find internships or part-time jobs, all while completing my studies.
 
 ## My Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiziASP&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -36,9 +36,9 @@ For my second year, I'm planning to focus on participating in competition, learn
 [![Seleksi 3 Labpro Monolith](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=seleksi-3-labpro-monolith)](https://github.com/DiziASP/seleksi-3-labpro-monolith)
 [![Canteena Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=canteena)](https://github.com/DiziASP/canteena)
 [![Menfess Website](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=nextfrontend-menfess)](https://github.com/DiziASP/nextfrontend-menfess)
-[![Tugas Besar IF1210 Dasar Pemrograman](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tubes-Daspro---BNMO)](https://github.com/DiziASP/Tubes-Daspro---BNMO)
-[![Tugas Besar IF2111 Alstrukdat STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=IF2111_TB2_01)](https://github.com/DiziASP/IF2111_TB2_01)
-[![Tugas Besar IF2212 OOP STI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=Tugas-Besar-IF2212-Pemrograman-Berorientasi-Objek-2023)](https://github.com/DiziASP/Tugas-Besar-IF2212-Pemrograman-Berorientasi-Objek-2023)
+[![Tugas Besar II3160 Single Service](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=OnlyTrade-Single-Service)](https://github.com/DiziASP/OnlyTrade-Single-Service)
+[![Tugas Besar II3160 Monolith](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=OnlyTrade-Monolith)](https://github.com/DiziASP/OnlyTrade-Monolith)
+[![Tugas Besar IF3152 Rekayasa Perangkat Lunak](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diziasp&theme=vision-friendly-dark&repo=gasball-deploy)](https://github.com/DiziASP/gasball-deploy)
 
 ## Dokumentasi Praktikum 
 (buat adik-adik STI ku supaya kalian bisa membantai alstrukdat dan oop🫶)
@@ -50,22 +50,32 @@ For my second year, I'm planning to focus on participating in competition, learn
 ## I'm familiar with these!
 ### Programming Languages
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=black)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
  
- ### Frameworks
+ ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+ ### Web Frameworks
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+ ### SRE Frameworks
+ ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
