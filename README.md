@@ -23,7 +23,7 @@ Checkout my portfolio to see what i've been up to this past few months.
 ## My Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiziASP&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="middle">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diziasp&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Most%20used%20languages" alt="GitHub Stats Language">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiziASP&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiziASP&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=My%20Stats" alt="GitHub Stats">
   <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiziASP&theme=dracula&hide_border=false" alt="GitHub Stats streak">
